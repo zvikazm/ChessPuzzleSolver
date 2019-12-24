@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessPuzzleSolver", "ChessPuzzleSolver\ChessPuzzleSolver.csproj", "{22FC507A-85E7-4373-9845-6AC2074607DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSolver", "ConsoleSolver\ConsoleSolver.csproj", "{200C86C1-6931-44E3-B44C-1534D9712592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FC507A-85E7-4373-9845-6AC2074607DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FC507A-85E7-4373-9845-6AC2074607DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FC507A-85E7-4373-9845-6AC2074607DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FC507A-85E7-4373-9845-6AC2074607DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200C86C1-6931-44E3-B44C-1534D9712592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200C86C1-6931-44E3-B44C-1534D9712592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200C86C1-6931-44E3-B44C-1534D9712592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200C86C1-6931-44E3-B44C-1534D9712592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
